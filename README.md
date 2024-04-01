@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/ann-strn" target="_blank">Ann</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> 👩‍💻  Current student of school 21 </h3>
+<h3 align="center"> 👩‍💻  Current student of School 21 </h3>
 
 ### Tools
 
@@ -26,6 +26,4 @@
   <img src="misc/images/telegram.png" width="20" height="20" alt="Telegram"/>
   Telegram <a href="https://t.me/yaroslavevg" target="_blank">ann_strn</a>
 </div>
-- Email ✉️: a.estrina@bk.ru
----
-[![GitHub Follow](https://img.shields.io/github/followers/ann-strn?label=follow&logo=github&style=for-the-badge&labelColor=black)](https://github.com/ann-strn)
+✉️: a.estrina@bk.ru
