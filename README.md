@@ -3,27 +3,29 @@
 <h3 align="center"> 👩‍💻  Current student of school 21 </h3>
 
 ### Tools
-<a href="https://javascript.info/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript" width="50"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img src="https://i.imgur.com/zINUxVf.png" alt="C" width="50"/>
-</a>
-<a href="https://www.wikiwand.com/en/Bash_(Unix_shell)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" alt="Bash" height="50"/>
-</a>
-<a href="https://www.docker.com/">
-  <img src="https://i.imgur.com/VyjCJuz.png" alt="Docker" height="50"/>
-</a>
-<a href="https://cmake.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/800px-Cmake.svg.png" alt="Cmake" height="50"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/Linux">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" height="50"/>
-</a>
+
+<div style="display:flex; flex-wrap:wrap; gap:10px; padding:10px;">
+ <img src="misc/badges/vscode.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+  <img src="misc/badges/ssh.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp
+  <img src="misc/badges/gitlab.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp
+  <img src="misc/badges/kubernetes.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp
+  <img src="misc/badges/docker.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
+  <img src="misc/badges/grafana.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp
+  <img src="misc/badges/postgresql.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
+  <img src="misc/badges/bash.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
+  <img src="misc/badges/c.svg" title="c" alt="c" width="40" height="40"/>&nbsp
+  <img src="misc/badges/cplusplus.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp
+  <img src="misc/badges/qt.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp
+  <img src="misc/badges/python.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+  <img src="misc/badges/javascript.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="misc/badges/jira.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
+</div>
 
 ### Contacts
-- Telegram ☎️: @ann_strn
+<div style="display:flex; align-items:center; gap:10px;">
+  <img src="misc/images/telegram.png" width="20" height="20" alt="Telegram"/>
+  Telegram <a href="https://t.me/yaroslavevg" target="_blank">ann_strn</a>
+</div>
 - Email ✉️: a.estrina@bk.ru
 ---
 [![GitHub Follow](https://img.shields.io/github/followers/ann-strn?label=follow&logo=github&style=for-the-badge&labelColor=black)](https://github.com/ann-strn)
